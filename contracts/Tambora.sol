@@ -2,7 +2,7 @@
 
 pragma solidity ^0.8.0;
 
-contract OneBeat {
+contract Tambora{
     address[] public users;
     mapping(address => bool) isAdded;
 
